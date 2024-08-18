@@ -79,6 +79,14 @@ const server = http.createServer(app.handler).listen(
 
 ```
 
+Will produce
+
+<div style="text-align:center">
+  <img src='https://storecraft.app/docs/main/storecraft-terminal.png' 
+      width='80%' />
+</div><hr/><br/>
+
+
 ## packages
 
 This is a mono repo, where each folder in the `packages` folder is a package, that is published `@npm`.
