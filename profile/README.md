@@ -1,12 +1,12 @@
 <div style="text-align:center">
   <div width="90%">
-    <img src='https://storecraft.app/storecraft-color.svg' 
+    <img src='https://github.com/store-craft/storecraft/blob/main/packages/docs/public/storecraft-color.svg' 
         width='100%' />
   </div>
   Commerce as Code
 </div><hr/><br/>
 
-# The <img src='https://storecraft.app/storecraft-color.svg' height='24px' style="transform: translateY(4px);" /> mono-repo
+# The <img src='https://github.com/store-craft/storecraft/blob/main/packages/docs/public/storecraft-color.svg' height='24px' style="transform: translateY(4px);" /> mono-repo
 
 Hi 👋, `Storecraft` is a next generation Commerce As Code javascript backend.
 
